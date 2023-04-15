@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\User\Documents\NetBeansProjects\Mcq_Counter\dist\MCQ_Counter.jar</jar>
+  <outfile>C:\Users\User\Documents\NetBeansProjects\Mcq_Counter\dist\MCQ Counter.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\User\Downloads\MCQ.ico</icon>
+  <singleInstance>
+    <mutexName>MCQCounter</mutexName>
+    <windowTitle>MCQ Counter</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jimage</path>
+    <bundledJre64Bit>true</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>17.0.2</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.0.0.0</fileVersion>
+    <txtFileVersion>2.0.0.0</txtFileVersion>
+    <fileDescription>Simple tool for counting number of correct/incorrect MCQs</fileDescription>
+    <copyright>Endeavor360</copyright>
+    <productVersion>2.0.0.0</productVersion>
+    <txtProductVersion>2.0.0.0</txtProductVersion>
+    <productName>MCQ Counter</productName>
+    <companyName></companyName>
+    <internalName>MCQ Counter</internalName>
+    <originalFilename>MCQ Counter.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
